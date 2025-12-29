@@ -10,16 +10,16 @@ Former Animator & Graphic Designer
     <tr>
       <td>
         <img 
-          src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif"
+          src="https://repository-images.githubusercontent.com/535853534/51dc23ec-3b75-421d-90e4-b30c678ac80e"
           height="130"
         />
       </td>
       <td width="40"></td>
       <td>
         <img
-          src="https://tse3.mm.bing.net/th/id/OIP.xmBks9rCz6yJpiNdAYEELAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
-          height="70"
-          alt="FFmpeg / Developer"
+          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndxYmppcjFhYjJnbDRzeTV0cGM1NzJxdnFhNnlmMTVmbGlqY2xvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
+          height="130"
+          alt="Snake GIF"
         />
       </td>
     </tr>
@@ -51,7 +51,7 @@ Former Animator & Graphic Designer
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" height="30"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.xmBks9rCz6yJpiNdAYEELAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="30"/>
 </div>
 
 ---
@@ -84,14 +84,6 @@ I focus on **systems that scale**, not shortcuts.
 
 ---
 
-### 🏆 Achievements
-
-- 📄 Recognized Work / Certificate  
-  <a href="https://drive.google.com/file/d/19jxklT5-7owFV1MYLJ72C5UaHSyMNg1x/view?usp=sharing" target="_blank">
-    View Achievement
-  </a>
-
----
 
 ### 🚀 Currently Building
 - Automation Systems  
