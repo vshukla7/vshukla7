@@ -35,7 +35,32 @@ Former Animator & Graphic Designer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" height="30"/>
 </div>
+
+---
+
+### 🧠 Developer Journey
+
+I wrote my **first program in 4th grade**.  
+Since then, I’ve been learning **not just to get hired**, but to **solve real problems**.
+
+My journey has evolved from:
+- experimenting with basic logic  
+- working as an **animator & graphic designer**  
+- to building **full-stack systems, automations, and AI-powered applications**
+
+I believe in **building systems that scale**, not just projects that look good.
+
+---
+
+### 🏆 Achievements
+
+- 📄 **Certified / Recognized Work**  
+  <a href="https://drive.google.com/file/d/19jxklT5-7owFV1MYLJ72C5UaHSyMNg1x/view?usp=sharing" target="_blank">
+    View Achievement
+  </a>
 
 ---
 
@@ -53,20 +78,13 @@ Former Animator & Graphic Designer
 ---
 
 ### 🚀 Currently Building
-- Automation Systems
-- Agentic AI Applications
-- Scalable Web Platforms
+- Automation Systems  
+- Agentic AI Applications  
+- Scalable Web Platforms  
 
 ---
 
 <img
   width="100%"
-  src="http://media3.giphy.com/media/d9QiBcfzg64Io/giphy.gif"
-/>
-
----
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt"
 />
