@@ -4,20 +4,14 @@
 I build AI-powered systems, automation tools, and scalable applications
 </h3>
 
-<p align="left">
-→ Self-taught Full-Stack & App Developer <br/>
-→ Exploring AI / NLP & Agentic Systems <br/>
-→ Former Animator turned Engineer
-</p>
+<h2 align="left"> 
+Hi 👋 I’m Vinayak Shukla <br/> 
+Self-Taught Full-Stack & App Developer <br/> 
+Learning AI / NLP & Agentic Systems <br/> 
+Former Animator & Graphic Designer 
+  
+</h2>
 
----
-
-## ⚡ Vision
-
-I’m building systems where AI doesn't just assist —  
-it **decides, executes, and improves workflows autonomously.**
-
----
 
 ## 🚀 Featured Projects
 
