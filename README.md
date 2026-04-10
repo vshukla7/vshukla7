@@ -4,7 +4,7 @@
 I build AI-powered systems, automation tools, and scalable applications
 </h3>
 
-<p align="center">
+<p align="left">
 → Self-taught Full-Stack & App Developer <br/>
 → Exploring AI / NLP & Agentic Systems <br/>
 → Former Animator turned Engineer
@@ -44,8 +44,10 @@ Express, MongoDB
 Python, NLP, Agentic Systems  
 
 **Other Tools:**  
-Android, Automation, System Design  
+Android, Automation, System Design
 
+
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/> <img width="12"/> <img src="https://tse3.mm.bing.net/th/id/OIP.xmBks9rCz6yJpiNdAYEELAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="30"/> </div>
 ---
 
 ## 🚀 Currently Building
