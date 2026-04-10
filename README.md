@@ -1,94 +1,96 @@
-<h2 align="left">
-Hi 👋 I’m Vinayak Shukla <br/>
-Self-Taught Full-Stack & App Developer <br/>
-Learning AI / NLP & Agentic Systems <br/>
-Former Animator & Graphic Designer
-</h2>
+<h1 align="center">Hi 👋 I'm Vinayak Shukla</h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://repository-images.githubusercontent.com/535853534/51dc23ec-3b75-421d-90e4-b30c678ac80e"
-          height="130"
-        />
-      </td>
-      <td width="40"></td>
-      <td>
-        <img
-          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndxYmppcjFhYjJnbDRzeTV0cGM1NzJxdnFhNnlmMTVmbGlqY2xvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
-          height="130"
-          alt="Snake GIF"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center">
+I build AI-powered systems, automation tools, and scalable applications
+</h3>
+
+<p align="center">
+→ Self-taught Full-Stack & App Developer <br/>
+→ Exploring AI / NLP & Agentic Systems <br/>
+→ Former Animator turned Engineer
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tools
+## ⚡ Vision
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.xmBks9rCz6yJpiNdAYEELAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="30"/>
-</div>
+I’m building systems where AI doesn't just assist —  
+it **decides, executes, and improves workflows autonomously.**
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Featured Projects
 
-<div align="left">
+- 🎬 **AI Video Editing Agent**  
+  JSON → Automated Editing Engine (effects, cuts, transitions via AI)
+
+- 🤖 **Agentic Workflow Engine**  
+  Rule-based + LLM system that decides *what action to take next*
+
+- ⚙️ **Automation Toolkit**  
+  Custom pipelines for creators & developers
+
+---
+
+## 🛠 Tech Stack
+
+**Core:**  
+JavaScript, TypeScript, React, Node.js  
+
+**Backend & Database:**  
+Express, MongoDB  
+
+**AI / Systems:**  
+Python, NLP, Agentic Systems  
+
+**Other Tools:**  
+Android, Automation, System Design  
+
+---
+
+## 🚀 Currently Building
+
+- 🧠 AI Video Editing Agent (Auto decision + smart effects system)  
+- ⚙️ AI-powered workflow engine (rules + reasoning)  
+- 🌐 Scalable automation tools  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
   <a href="https://www.instagram.com/_algotec/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35"/>
   </a>
   <a href="mailto:vinsyakshukla3001@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35"/>
   </a>
-</div>
+</p>
 
 ---
 
-### 🧠 Developer Journey
+## 🧠 Developer Journey
 
 I wrote my **first program in 4th grade**.  
 From that moment, I learned one thing clearly —  
-**I build to solve problems, not just to get hired.**
+
+> I build to solve problems, not just to get hired.
 
 My journey moved from:
-- basic logic & curiosity  
-- professional work as an **animator & graphic designer**  
-- to building **full-stack systems, automations, and AI-driven products**
+- curiosity & logic building  
+- professional work as an **animator & designer**  
+- to building **full-stack systems & AI-driven products**
 
-I focus on **systems that scale**, not shortcuts.
+Now I focus on **systems that scale, automate, and think.**
 
 ---
 
+## 📈 GitHub Stats
 
-### 🚀 Currently Building
-- Automation Systems  
-- Agentic AI Applications  
-- Scalable Web Platforms  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vshukla7&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvshukla7&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
