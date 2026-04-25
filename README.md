@@ -1,6 +1,6 @@
 <h2 align="left"> 
 Hi 👋 I’m Vinayak Shukla <br/> 
-16 yr old Self-Taught Full-Stack & App Developer & Entrepreneur <br/> 
+16 yr old Self-Taught Full-Stack , App Developer & Entrepreneur <br/> 
 Learning AI / NLP & Agentic Systems <br/> 
 Former Animator & Graphic Designer 
   
