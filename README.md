@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋 I'm Vinayak Shukla</h1>
-
-<h3 align="center">
-I build AI-powered systems, automation tools, and scalable applications
-</h3>
-
 <h2 align="left"> 
 Hi 👋 I’m Vinayak Shukla <br/> 
-Self-Taught Full-Stack & App Developer <br/> 
+16 yr old Self-Taught Full-Stack & App Developer & Entrepreneur <br/> 
 Learning AI / NLP & Agentic Systems <br/> 
 Former Animator & Graphic Designer 
   
