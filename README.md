@@ -1,100 +1,159 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5cff,100:00d4ff&height=180&section=header&text=Hi%20there%2C%20I'm%20Vinayak!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=17%20yr%20old%20Self-Taught%20Full-Stack%20%26%20App%20Developer%20%E2%9A%99%EF%B8%8F&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Self-Taught+Full-Stack+Developer;%F0%9F%A4%96+Building+Agentic+%26+AI+Systems;%F0%9F%8E%A8+Former+Animator+%26+Graphic+Designer;%F0%9F%9A%80+Entrepreneur+%40+17" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinayakshukla&label=visitors&color=6a5cff&style=for-the-badge" alt="visitors" />
-</div>
-
-## ⚡ About Me
+### 💻 `whoami --verbose`
 
 ```yaml
-name: Vinayak Shukla
-age: 17
-role: full-stack developer & entrepreneur
-loves: [agentic systems 🤖, automation ⚙️, clean architecture 🧠]
-background: former animator & graphic designer 🎬🎨
-learning: AI / NLP & Agentic Systems
-mindset: "I build to solve problems, not just to get hired."
+┌──(vinayak㉿hyper-node)-[~]
+└─$ neofetch --god-mode
+
+  ██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗ █████╗ ██╗  ██╗
+  ██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██║ ██╔╝
+  ██║   ██║██║██╔██╗ ██║███████║ ╚████╔╝ ███████║█████╔╝ 
+  ╚██╗ ██╔╝██║██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══██║██╔═██╗ 
+   ╚████╔╝ ██║██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██╗
+    ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+
+  👤 Identity       : Vinayak Shukla (17 y/o Full-Stack & Open-Source Programmer)
+  🚀 Venture        : Founder @Ayphic.pro 
+  ⏳ Experience     : 6 Years (Wrote 1st program in 4th Grade)
+  📊 Track Record   : 40+ Projects • International + National
+  📦 Open Source    : 30+ Projects (remotion-caption-themes, chesscanvas, etc.)
+  🎯 Phillosphy     : Don't write code for job , it's a Power to change the world.
 ```
 
-- 🧠 Started coding in **4th grade** — never stopped since.
-- 🎬 Moved from **2D animation & design** into **full-stack systems & AI-driven products**.
-- ⚙️ Focused on building for the humanity.
-- 🌟 If something here helps you, a star means a lot! ⭐
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinayak-shukla-380bb92b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_algotec/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-_algotec-5865F2?style=flat&logo=discord&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:vinayakshukla3001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vshukla7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" />
+  </a>
+</div>
 
-## 🚀 Featured Projects
+---
+
+## The Deadly Stack
 
 <div align="center">
 
-**🎬 AI Video Editing Agent** — JSON → Automated Editing Engine (effects, cuts, transitions via AI)
-
-**🤖 Agentic Workflow Engine** — Rule-based + LLM system that decides *what action to take next*
-
-**⚙️ Automation Toolkit** — Custom pipelines for creators & developers
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,express,mongodb,python,android,github" /><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /></a>
+  <!-- Core Icon Wall -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,kotlin,py,ts,js,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,redis,docker,git,postman" />
+  </a>
 
 </div>
 
-## 🧠 Currently Building
+<br/>
 
-- 🎬 AI Video Editing Agent *(auto decision + smart effects system)*
-- ⚙️ AI-powered workflow engine *(rules + reasoning)*
-- 🌐 Scalable automation tools
+### 🤖 AI, LLMs & Agentic Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FF4B4B?style=flat&logo=openai&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Autonomous_Pipelines-7928CA?style=flat&logo=fastapi&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Python_Core-3776AB?style=flat&logo=python&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-00C7B7?style=flat&logo=anthropic&logoColor=white" height="24" />
+</p>
 
-## 📊 GitHub Stats
+### 🛡️ Low-Level Media, Security & OS
+<p align="left">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat&logo=react&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" height="24" />
+</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=vinayakshukla&show_icons=true&theme=radical&hide_border=true&bg_color=0,6a5cff,00d4ff&title_color=ffffff&text_color=e6e6ff&icon_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=vinayakshukla&hide_border=true&background=0D1117&ring=00D4FF&fire=6A5CFF&currStreakLabel=00D4FF" alt="streak stats" />
-  <br/>
-  <img width="60%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=vinayakshukla&layout=compact&theme=radical&hide_border=true&bg_color=0,00d4ff,6a5cff&title_color=ffffff&text_color=e6e6ff" alt="top langs" />
-</div>
+### 📱 Android & Native Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat&logo=android&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Coroutines_%26_Flows-009688?style=flat&logo=kotlin&logoColor=white" height="24" />
+</p>
 
-## 🧭 Developer Journey
+### 🌐 Full-Stack, Open Source & Distributed Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/NPM_Package_Author-CB3837?style=flat&logo=npm&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/React_/_Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="24" />
+</p>
 
-I wrote my **first program in 4th grade**. From that moment, one thing was clear:
+---
 
-> I build to solve problems, not just to get hired.
+## 💣 Key Ventures & Featured Deployments
 
-My journey moved from:
-- curiosity & logic building
-- professional work as an **animator & designer**
-- to building **full-stack systems & AI-driven products**
-
-Now I focus on **systems that scale, automate, and think.**
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/%F0%9F%93%B7-Instagram-6a5cff?style=for-the-badge)](https://www.instagram.com/_algotec/)
-[![Gmail](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-Email%20me-00d4ff?style=for-the-badge)](mailto:vinsyakshukla3001@gmail.com)
-
-*⭐ Star a repo if you like my work — it keeps the ideas flowing 🚀*
-
-</div>
-
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5cff&height=120&section=footer&text=thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</h1>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 <a href="https://ayphic.pro">Ayphic.pro</a> — Founder & Architect</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Founder-Project-ff0055?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FFmpeg-Engine-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-Agentic-6e40c9?style=flat-square"/>
+      </p>
+      <p>AI-Native Video Editing Engine. Converts natural language instructions, scripts, and JSON into automated professional video cuts, kinetic captions, multi-layer effects, and GPU-accelerated FFmpeg renders.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 <a href="https://www.npmjs.com/package/remotion-caption-themes"><code>remotion-caption-themes</code></a> (NPM)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Worldwide_NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Remotion-React-61DAFB?style=flat-square"/>
+      </p>
+      <p>Global open-source NPM package used worldwide by developers to integrate modern dynamic caption animation themes, viral subtitles, and kinetic typography directly into Remotion video renderers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ <a href="https://captions.ayphic.pro">SnipCaptions</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Captions-AI_Engine-00ffff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LangChain-Integration-1C3C3C?style=flat-square"/>
+      </p>
+      <p>Automated high-precision video captioning & audio-to-text pipeline engineered for rapid turnaround, word-by-word highlight synchronization, and viral social formatting.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">♟️ <a href="https://github.com/vshukla7/chesscanvas"><code>chesscanvas</code></a> (NPM)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Open_Source-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-Canvas_Engine-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+      <p>Lightweight, high-performance HTML5 Canvas-based interactive chess board visualizer and move validation package for seamless web game rendering and analysis.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💼 Techpedia24 — Ex-Software Developer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Ex--Dev-Techpedia24-339933?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FullStack-Engineering-3178C6?style=flat-square"/>
+      </p>
+      <p>Worked as a core software developer building and optimizing production web platforms, technical pipelines, and feature architectures at Techpedia24.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌍 Global Client Engineering (10+ Projects)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Clients-Belgium_%7C_Switzerland-4169E1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/International-10%2B%20Delivered-2496ED?style=flat-square"/>
+      </p>
+      <p>Engineered and deployed 10+ end-to-end full-stack systems and cloud solutions for international clients across Switzerland, Belgium, and national organizations.</p>
+    </td>
+  </tr>
+</table>
