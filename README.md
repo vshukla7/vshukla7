@@ -156,4 +156,22 @@
       <p>Engineered and deployed 10+ end-to-end full-stack systems and cloud solutions for international clients across Switzerland, Belgium, and national organizations.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Medcart — Chief Engineer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Chief-Engineer-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FullStack-Engineering-3178C6?style=flat-square"/>
+      </p>
+      <p>Leading engineering efforts at Medcart, overseeing product architecture, feature development, and technical decision-making as Chief Engineer.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Google Play Console — Full Access</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Play_Console-Full_Access-414141?style=flat-square&logo=googleplay&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android_Dev-3_Months-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+      <p>Holding full administrative access to Google Play Console, managing app releases, updates, and store presence since starting as a developer 3 months ago.</p>
+    </td>
+</tr>
 </table>
