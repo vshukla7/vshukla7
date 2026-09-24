@@ -146,15 +146,6 @@
       </p>
       <p>Worked for 6 months as a software developer building, scaling, and maintaining core features and web infrastructure at eliteclub.group.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌍 Global Client Engineering (10+ Projects)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Clients-Belgium_%7C_Switzerland-4169E1?style=flat-square"/>
-        <img src="https://img.shields.io/badge/International-10%2B%20Delivered-2496ED?style=flat-square"/>
-      </p>
-      <p>Engineered and deployed 10+ end-to-end full-stack systems and cloud solutions for international clients across Switzerland, Belgium, and national organizations.</p>
-    </td>
-  </tr>
   </tr>
   <tr>
     <td width="50%">
