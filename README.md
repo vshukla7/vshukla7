@@ -137,6 +137,24 @@
       </p>
       <p>Lightweight, high-performance HTML5 Canvas-based interactive chess board visualizer and move validation package for seamless web game rendering and analysis.</p>
     </td>
+    <tr>
+    <td width="50%">
+      <h3 align="center">💼 Eliteclub.group — Software Developer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Eliteclub.group-6_Months-FF6600?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FullStack-Development-3178C6?style=flat-square"/>
+      </p>
+      <p>Worked for 6 months as a software developer building, scaling, and maintaining core features and web infrastructure at eliteclub.group.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌍 Global Client Engineering (10+ Projects)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Clients-Belgium_%7C_Switzerland-4169E1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/International-10%2B%20Delivered-2496ED?style=flat-square"/>
+      </p>
+      <p>Engineered and deployed 10+ end-to-end full-stack systems and cloud solutions for international clients across Switzerland, Belgium, and national organizations.</p>
+    </td>
+  </tr>
   </tr>
   <tr>
     <td width="50%">
@@ -158,20 +176,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">⚙️ Medcart — Chief Engineer</h3>
+      <h3 align="center">⚡ Mysana — AI Trend Clone (24h)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Chief-Engineer-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FullStack-Engineering-3178C6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Project-Mysana-FF69B4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Turnaround-24_Hours-FF0000?style=flat-square"/>
       </p>
-      <p>Leading engineering efforts at Medcart, overseeing product architecture, feature development, and technical decision-making as Chief Engineer.</p>
+      <p>Cloned and deployed a global viral anime AI trend (Mysana) from scratch into a fully functional product within a rapid 24-hour window.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">📱 Google Play Console — Full Access</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Play_Console-Full_Access-414141?style=flat-square&logo=googleplay&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android_Dev-3_Months-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      </p>
-      <p>Holding full administrative access to Google Play Console, managing app releases, updates, and store presence since starting as a developer 3 months ago.</p>
-    </td>
-</tr>
+  </tr>
 </table>
