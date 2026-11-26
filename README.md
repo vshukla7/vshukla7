@@ -1,23 +1,3 @@
-### 💻 `whoami --verbose`
-
-```yaml
-┌──(vinayak㉿hyper-node)-[~]
-└─$ neofetch --god-mode
-
-  ██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗ █████╗ ██╗  ██╗
-  ██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██║ ██╔╝
-  ██║   ██║██║██╔██╗ ██║███████║ ╚████╔╝ ███████║█████╔╝ 
-  ╚██╗ ██╔╝██║██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══██║██╔═██╗ 
-   ╚████╔╝ ██║██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██╗
-    ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-
-  👤 Identity       : Vinayak Shukla (17 y/o Full-Stack & Open-Source Programmer)
-  🚀 Venture        : Founder @Ayphic.pro 
-  ⏳ Experience     : 6 Years (Wrote 1st program in 4th Grade)
-  📊 Track Record   : 40+ Projects • International + National
-  📦 Open Source    : 30+ Projects (remotion-caption-themes, chesscanvas, etc.)
-  🎯 Phillosphy     : Don't write code for job , it's a Power to change the world.
-```
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vinayak-shukla-380bb92b9/">
