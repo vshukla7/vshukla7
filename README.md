@@ -20,8 +20,6 @@ Started - 2018 > Still Here For Humanity to Build for The Civilization
   &nbsp;
 </div>
 
----
-
 ## The Stack
 
 <div align="center">
