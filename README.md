@@ -15,7 +15,7 @@ Started - 2018 > Still Here For Humanity to Build for The Civilization
   </a>
   &nbsp;
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-_algotec-5865F2?style=flat&logo=discord&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="28" />
   </a>
   &nbsp;
   <a href="mailto:vinayakshukla3001@gmail.com">
