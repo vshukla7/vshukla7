@@ -1,5 +1,5 @@
-Hii, I am Vinayak Shukla from Bihar,India - 17yo Self Taught Full-time builder, part-time programmer. I am Creator of [Ayphic](https://ayphic.pro) - Video Editor Built for AI 
-
+Hii, I am Vinayak Shukla from Bihar,India - 17yo Self Taught Full-time builder, part-time programmer. 
+I am Creator of [Ayphic](https://ayphic.pro) - Video Editor Built for AI 
 Started - 2018 > Still Here For Humanity to Build for The Civilization
 
 
