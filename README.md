@@ -14,10 +14,6 @@ Started - 2018 > Still Here For Humanity to Build for The Civilization
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="28" />
   </a>
   &nbsp;
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="28" />
-  </a>
-  &nbsp;
   <a href="mailto:vinayakshukla3001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" />
   </a>
